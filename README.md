@@ -1,4 +1,4 @@
-# Proyecto de dual motor driver TB6612 Repo
+# Proyecto:  TB6612FNG DC MOTOR DRIVER Repo.
 
 En este proyecto presentaremos el diseño de un driver, especificamente el Dual Motor Driver TB6612FNG, el cual es mucho más eficiente que los antiguos controladores basados en puente H bjt,como el L298N, pero ya veremos por qué.
 Comenzaremos exponiendo su funcionalidad.
