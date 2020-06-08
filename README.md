@@ -1,2 +1,3 @@
 # TB6612
 Proyecto de dual motor driver TB6612
+![DUAL MOTROR DRIVER TB6612FNG](TB6612FNG_2.jpg)
