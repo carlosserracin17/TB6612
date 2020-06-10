@@ -18,3 +18,6 @@ Comenzaremos exponiendo su funcionalidad.
 - Dimensión: 1.57x1.57 (in) / 40 × 40 (mm)
 
 ![](https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/_DRI0044-A_Dual_Motor_Driver_TB6612.png)
+
+## Resultados
+![image](https://user-images.githubusercontent.com/66341655/84214866-418a1a80-aa8a-11ea-9388-bc87a698e554.png)
